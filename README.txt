@@ -1,3 +1,5 @@
+To view the map, launch a local server.
+
 Data is comprised of a map of Manhattan divided by zip codes (zipcode2.json) and rental prices by zip code vs. average income by zip code (Zip_rents_2.csv). 
 
 Map data was acquired from data.cityofnewyork.us, and projections were used to display it on the page (https://data.cityofnewyork.us/api/views/i8iw-xf4u/files/YObIR0MbpUVA0EpQzZSq5x55FzKGM2ejSeahdvjqR20?filename=ZIP_CODE_040114.zip).
